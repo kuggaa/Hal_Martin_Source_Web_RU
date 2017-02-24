@@ -42,7 +42,14 @@ Wayback Machine shows 403 Forbidden Error: Dec 30 2016
 
 # No other archive dates on Waybackmachine.
 
-Site began historical archive on 26 Aug 2016 17:28 
+The contractor was identified as Harold T. Martin III of Glen Burnie, Md., according to a criminal complaint filed in late August and unsealed Wednesday. Mr. Martin, who at the time of his arrest was working as a contractor for the Defense Department after leaving the N.S.A., was charged with theft of government property and the unauthorized removal or retention of classified documents.
+
+Mr. Martin, 51, was arrested during an F.B.I. raid on his home on Aug. 27. A neighbor, Murray Bennett, said in a telephone interview on Wednesday that two dozen F.B.I. agents wearing military-style uniforms and armed with long guns stormed the house, and later escorted Mr. Martin out in handcuffs.
+
+Arrest Was Aug 27/Site began historical archive on 26 Aug 2016 17:28 
+
+# https://www.nytimes.com/2016/10/06/us/nsa-leak-booz-allen-hamilton.html?_r=0
+Article releases OCT
 
 http://archive.is/w9miG
 
