@@ -82,6 +82,9 @@ http://archive.is/TlYBB
 
 This archive date shows the .ru script again and continues on for the remainder of the archive dates.
 
+
+Basically, the little loading.gif file was dirtily hotlinked even though it was hosted elsewhere. Which is now solved, you can go check again, it's hosted on https://archive.fo/loading.gif instead of the previous www.henley-putnam.edu/Portals/_default/Skins/henley/images/loading.gif
+
  
 
 
