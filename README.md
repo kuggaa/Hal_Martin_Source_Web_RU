@@ -85,6 +85,16 @@ This archive date shows the .ru script again and continues on for the remainder 
 
 Basically, the little loading.gif file was dirtily hotlinked even though it was hosted elsewhere. Which is now solved, you can go check again, it's hosted on https://archive.fo/loading.gif instead of the previous www.henley-putnam.edu/Portals/_default/Skins/henley/images/loading.gif
 
+Site: archive.is owner/associated Henley Putnam.
+
+----------------------------------SITE/RU/ANTICHAT-------------------------
+# mail.ru Что за данные добавляются к запросу. | Форум АНТИЧАТ
+# https://forum.antichat.ru › ... › PHP, PERL, MySQL, JavaScript
+# Translate this page
+# Aug 21, 2012 - 11 posts - ‎3 authors
+[COLOR=White]POST /cgi-bin/modifypass HTTP/1.1 Accept-Encoding: identity Content-Length: 425 Accept-Language: ru-ru,ru;q=0.8,en-us ...
+----------------------Note/Threads-----------------------------------
+
  
 
 
