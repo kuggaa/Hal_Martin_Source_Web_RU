@@ -2,6 +2,7 @@
 Source files HalMartin Website_Looking_Infections_As_per_top-fwz1[dot]mail[dot]ru/js/code.js
 
 # Archive.is site is planting malware scripts/
+# https://top-fwz1.mail.ru/counter?id=2825109;js=na
 
 Questions: How did site predict Martin Web 24/hrs Before would be focus of raid?
 
