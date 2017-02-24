@@ -1,6 +1,8 @@
 # Hal_Martin_Source_Web_RU
 Source files HalMartin Website_Looking_Infections_As_per_top-fwz1[dot]mail[dot]ru/js/code.js
 
+https://habrahabr.ru/company/mailru/blog/186244/
+
 # Archive.is site is planting malware scripts/
 # https://top-fwz1.mail.ru/counter?id=2825109;js=na
 
