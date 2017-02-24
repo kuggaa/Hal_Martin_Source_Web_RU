@@ -1,6 +1,10 @@
 # Hal_Martin_Source_Web_RU
 Source files HalMartin Website_Looking_Infections_As_per_top-fwz1[dot]mail[dot]ru/js/code.js
 
+# Archive.is site is planting malware scripts/
+
+Questions: How did site predict Martin Web 24/hrs Before would be focus of raid?
+
 # Researching Hal Martin Webpage for information
 
 http://top-fwz1.mail.ru/tracker?js=13;id=
@@ -8,6 +12,12 @@ http://top-fwz1.mail.ru/tracker?js=13;id=
 a.referrer:document.referrer,g="title"in a?a.title:document.title;b=x(n)+"//top-fwz1.mail.ru"+(b?"/tracker":"/counter")+"?js=13"+
 
 <img src="//top-fwz1.mail.ru/counter?id=2825109;js=na" style="border:0;" height="1" width="1"/>
+
+Using service worker you can hijack connections, fabricate, and filter responses. Powerful stuff. While you would use these powers for good, a man-in-the-middle might not. To avoid this, you can only register service workers on pages served over HTTPS, so we know the service worker the browser receives hasn't been tampered with during its journey through the network.
+
+Another gimmick one has to observe. It get's annoying.
+
+Imagine a state planting service workers into your browser and deleting posts. You would only notice when you use a (second) browser which doesn't have this feature (and compare).
 
 
 
