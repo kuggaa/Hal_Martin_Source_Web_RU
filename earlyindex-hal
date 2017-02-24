@@ -1,0 +1,368 @@
+http://archive.is/w9miG#selection-69.0-69.13105
+
+NO.ru
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+	Mods by Hal
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<link rel="shortcut icon" href="images/favicon.ico" >
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Welcome to Hal's Information Systems homepage @ UMBC</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="default.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {color: #000000}
+body,td,th {
+	color: #000000;
+}
+a:link {
+	text-decoration: none;
+	color: #000066;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+.style6 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-style: italic;
+}
+.style7 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+<!-- .style8 {color: #1A2DC3} -->
+.style8 {color: #000000}
+
+-->
+</style>
+</head>
+<body>
+<div id="outer">
+	<div id="header">
+		<h1><a href="#">HAL @ UMBC</a></h1>
+	  <h2>INFORMATION SYSTEMS AND SOFTWARE ENGINEERING RESEARCH</h2>
+	  <p><img src="images/SDCE.jpg" alt="" width="475" height="132" /></p>
+  </div>
+	<div id="menu">
+		<ul>
+			
+		</ul>
+	</div>
+	<div id="content">
+		<div id="tertiaryContent">
+			<h2>SUBJECT AREAS</h2>
+			
+<!--		<p><img src="images/COMPUTINGHUMAN.jpg" alt="" width="180" height="150" /></p> -->
+			<h3>GENERAL PRACTICE</h3>
+			<ul>
+				<li><a href="http://www.umbc.edu/gradschool/">UMBC</a></li>
+		        <li><a href="http://www.internet2.edu/">Internet2</a></li>
+		        <li><a href="http://www.wired.com/">WiredNews</a></li>
+				<li><a href="https://devops.com/">DEV-OPS</a></li>
+				<li><a href="http://containerjournal.com/">Container Journal</a></li>	
+			</ul>
+		  <h3>ACADEMIC FORUMS</h3>
+		  <ul>
+				<li><a href="https://www.usenix.org/conference/lisa15">LISA 15</a></li>
+				<li><a href="http://www.sigsac.org/">ACM SIGSAC</a></li>
+				<li><a href="http://www.sigchi.org/">ACM SIGCHI</a></li>
+			    <li><a href="http://www.aamas-conference.org/">AAMAS</a></li>
+				<li><a href="http://www.computingfrontiers.org/2016/">ACM Computing Frontiers</a></li>
+				<li><a href="http://www.sighpc.org/">ACM SIGHPC</a></li>
+				<li><a href="http://uist.acm.org/">ACM UIST</a></li>
+				<li><a href="http://cscw.acm.org/2016/index.php">ACM CSCW</a></li>
+				<li><a href="http://www.primalsecurity.net/0xc-python-tutorial-python-malware/">ACM CSCW</a></li>
+          </ul>
+		  <h3>COLLABORATION</h3>
+		  <ul>
+    	    <li><a href="https://slack.com/">SLACK</a></li>
+<!--		<li><a href="http://www.ros.org/">ROS</a></li>
+			<li><a href="http://www.ros.org/">ROS</a></li>
+			<li><a href="http://www.ros.org/">ROS</a></li>
+			<li><a href="http://www.ros.org/">ROS</a></li>
+-->          </ul>
+		  
+		  <h3>NETWORK & SERVICE IDENTIFICATION</h3>
+		  <ul>
+<!--	    <li><a href="http://www.ros.org/">ROS</a></li>
+			<li><a href="http://www.ros.org/">ROS</a></li>
+			<li><a href="http://www.ros.org/">ROS</a></li>
+			<li><a href="http://www.ros.org/">ROS</a></li>
+			<li><a href="http://www.ros.org/">ROS</a></li>
+-->         </ul>
+		  
+		  <h3>VISUALIZATION</h3>
+		  <ul>
+<!--	    <li><a href="http://www.ros.org/">ROS</a></li>
+			<li><a href="http://www.ros.org/">ROS</a></li>
+			<li><a href="http://www.ros.org/">ROS</a></li>
+			<li><a href="http://www.ros.org/">ROS</a></li>
+			<li><a href="http://www.ros.org/">ROS</a></li>
+-->         </ul>
+		  
+		  
+		  <h3>CLOUD</h3>
+		  <ul>
+<!--	    <li><a href="https://www.openstack.org/">OPENSTACK</a></li>
+			<li><a href="http://www.cloudera.com/">CLOUDERA</a></li>
+			<li><a href="https://aws.amazon.com/">AWS</a></li>
+			<li><a href="http://www.ros.org/">ROS</a></li>
+			<li><a href="http://www.ros.org/">ROS</a></li>
+-->         </ul>
+		  <h3>MOBILITY</h3>
+		  <ul>
+<!--   	    <li><a href="http://www.ros.org/">ROS</a></li>
+			<li><a href="http://www.ros.org/">ROS</a></li>
+			<li><a href="http://www.ros.org/">ROS</a></li>
+			<li><a href="http://www.ros.org/">ROS</a></li>
+			<li><a href="http://www.ros.org/">ROS</a></li>
+-->         </ul>
+		  <h3>BIG DATA</h3>
+		  <ul>
+     		<li><a href="http://www.stratahadoopworld.com/nyc/">Strata-Hadoop</a></li>
+			<li><a href="https://www.docker.com/">DOCKER</a></li>
+			<li><a href="http://incubator.apache.org/">Apache Incubator</a></li>
+			<li><a href="http://accumulo.apache.org/">Accumulo</a></li>
+			<li><a href="http://nifi.apache.org/index.html">Niagra Files</a></li>
+			<li><a href="http://hortonworks.com/">HortonWorks</a></li>
+         </ul>
+		  <h3>ROBOTICS</h3>
+		  <ul>
+			<li><a href="http://www.ros.org/">ROS</a></li>
+			<li><a href="http://gazebosim.org/">GAZEBO</a></li>
+			<li><a href="http://www.osrfoundation.org/">OSRF</a></li>
+			<li><a href="http://www.ijrr.org/">IJRR</a></li>
+							    
+          </ul>
+		  <h3>INTERNET OF THINGS</h3>
+		  <ul>
+<!--	    <li><a href="http://www.ros.org/">ROS</a></li>
+			<li><a href="http://www.ros.org/">ROS</a></li>
+			<li><a href="http://www.ros.org/">ROS</a></li>
+			<li><a href="http://www.ros.org/">ROS</a></li>
+			<li><a href="http://www.ros.org/">ROS</a></li>
+-->         </ul>
+		
+		  <h3>CYBER SECURITY</h3>
+		  <ul>
+<!--		<li><a href="http://www.ros.org/">ROS</a></li>
+			<li><a href="http://www.ros.org/">ROS</a></li>
+			<li><a href="http://www.ros.org/">ROS</a></li>
+-->			<li><a href="https://www.exploit-db.com/">Exploit DB</a></li>
+			<li><a href="https://cansecwest.com/">CanSecWest</a></li>
+			<li><a href="https://zeltser.com/">Lenny Zeltser</a></li>
+			<li><a href="papers/blackteaming.pdf">BLACK TEAMING</a></li>
+			<h4>Beyond RED & BLUE TEAMS</h4>
+	  	  </ul>
+	
+            <a href="#">
+            
+           
+            <p class="style2"></p>
+            <p class="style2"></p>
+            <p>&nbsp;</p>
+          <p></p>
+          <p></p>
+          </a>
+          <div class="xbg"></div>
+		</div>
+<div id="primaryContentContainer">
+			<div id="primaryContent">
+				<h2>RESEARCH AREA</h2>
+			  <p><strong>Virtual Interfaces for Exploration of Heterogeneous & Cloud Computing Architectures</strong> are emerging as methods for understanding various computing constructs. Research in this area benefits multiple issues relating to advancing technologies within several computing paradigms. My reserach focuses on exploraton of new methods for remote analysis of current and future architectures. </p>
+				<h3>General Topic Areas:</h3>
+		  <ul>
+			<li> Autonomous Software Agents</li>
+			<li> Remote Collaboration and Analysis of Unknown Computing Architectures</li>
+			<li> Integration of Analysis Methodoloiges</li>
+			<li> Cloud and Data Center Environment Computing</li>
+		  </ul>
+		        <h3>Virtual Analysis Architecture Components and General Research:</h3>
+		  <ul>
+			<li> Virtual, Interactive, Collaboration and Information Exchange Environment (VICkIEE)</li>
+			<li> Components of VICkIEE</li>
+			<li> Simulated Data Center Environment (SDCE) </li>
+			<li> Components of SDCE</li>
+		  </ul>
+			
+				<h3>Published Papers, Papers in Progress, and supporting documents</h3>
+		<!--		<h4>Most documents are proprietary intellectual property and therefore encrypted</h4> -->
+		<!--		<h4><th><a href="papers/opensourcekey.jpg">Decrypt Key for Open Source docs</a></th></h4> -->
+				<h4>Please contact me at my school email address for usage authorization/decryption information</h4>
+		  <table>
+					<tr class="rowH">
+						<th>Date</th>
+											
+						<ul>
+					
+						<th>Title</th>
+					
+					
+						<th>Description</th>
+						<th></th>
+						
+					</tr>
+					
+					<tr class="rowN">
+					<th>15/OCT/14</th>
+					
+					<th><a href="papers/lisa_abstract_v2.pdf">LISA'14 Abstract</a></th>
+					<th>LISA'14 Presentation Abstract - VICkIEE & SDCE</th>
+					</tr>
+					<tr class="rowO">
+					<th>15/OCT/14</th>
+					
+					<th><a href="papers/poster-HALv5.pdf.exe">LISA'14 Poster</a></th>
+					<th>LISA'14 Presentation Poster - VICkIEE & SDCE</th>
+					</tr>
+											
+					<tr class="rowI">
+					<th>15/JAN/16</th>
+					
+					<th><a href="papers/VCIE6.pdf.exe">Foundations</a></th>
+					<th>Foundation Paper - Remote Interactive Exploration/Cloud & Data Center Environments</th>
+					</tr>
+					<tr class="rowJ">
+					<th>30/JAN/16</th>
+					<th><a href="papers/VICkIEE.pdf.exe">VICkIEE</a></th>
+					<th>Foundation Paper - Virtual Interactive Collaboration Information Exchange Environment</th>
+					</tr>
+					<tr class="rowK">
+					<th>30/JAN/16</th>
+					<th><a href="papers/SDCE.pdf.exe">SDCE</a></th>
+					<th>Foundation Paper - Simulated Data Center Environment</th>
+					</tr>
+					<tr class="rowL">
+					<th>30/JAN/16</th>
+					<th><a href="papers/IT_Aquisition.pdf.exe">Business Case</a></th>
+					<th>Foundation Paper - Business Case for VICkIEE/SDCE</th>
+					</tr>
+					<tr class="rowM">
+					<th>15/FEB/16</th>
+					<th><a href="papers/Dissertation_Hal_Martin_draft_ver_4.pdf.pgp">PhD Thesis</a></th>
+					<th>PhD Thesis Draft</th>
+					</tr>					
+					<tr class="rowN">
+					<th>10/MAR/16</th>
+					<th><a href="papers/irbforms.exe">Research Protocol</a></th>
+					<th>Complete Research Protocol / IRB Forms / IRB Approval</th>
+					</tr>
+					
+			  </table>
+			</div>
+	  </div>
+		<div id="secondaryContent">
+			<h2>PhD Candidate</h2>
+		<!--
+		<p><img src="hal.jpg" alt="" width="160" height="136" />            </p>
+		-->		
+			
+			<p>Welcome to my homepage at UMBC, and research related to interests in CAMBRIC
+			<ul>
+			<li>Cloud Computing</li>
+			<li>Artificial Intelligence</li>
+			<li>Mobility</li>
+			<li>Big Data</li>
+			<li>Robotics</li>
+			<li>Internet of Things</li>
+			<li>Cyber Security</li>
+			</ul>
+			<a href="#"></a></p>
+		  <h3>Committee Members</h3>
+			<ul>
+			<li><a href="http://userpages.umbc.edu/~lutters/">Dr. Wayne G. Lutters</a><a href="#"></a></li>
+			<li><a href="http://business.vcu.edu/faculty-and-research/persondetail.php?urn=vyyoon">Dr. Victoria Yoon</a><a href="#"></a></li>
+			<li><a href="https://sites.google.com/a/umbc.edu/anita-komlodi/">Dr. Anita Komlodi</a><a href="#"></a></li>
+			<li><a href="http://www.csee.umbc.edu/people/faculty/tim-oates/">Dr. Timothy Oates</a><a href="#"></a></li>
+			<li><a href="http://userpages.umbc.edu/~rada/">Dr. Roy Rada</a><a href="#"></a></li>
+			</ul>
+		<h3>Various Links</h3>
+			<ul>
+				<li><a href="http://www.is.umbc.edu/">UMBC activities</a><a href="#"></a></li>
+				<li><a href="http://en.wikipedia.org/wiki/Urandom">/dev/random</a><a href="#"></a></li>
+		  </ul>
+		  <p> <a href="#"></a></p>
+		  <h3>Software &amp; Security Engineering Links</h3>
+		  <ul>
+				<li><a href="http://www.usenix.org">USENIX</a><a href="#"></a></li>
+				<li><a href="http://www.drdobbs.com">Dr. Dobbs</a><a href="#"></a></li>
+				<li><a href="https://blog.rootshell.be/">/dev/random</a><a href="#"></a></li>
+				<li><a href="https://www.trustedsec.com/">Dave Kennedy</a><a href="#"></a></li>
+				<li><a href="http://www.networkcomputing.com"/>Network Computing</a><a href="#"></a></li>
+				<li><a href="http://www.computerworld.com/"/>Computer World</a><a href="#"></a></li>
+				<li><a href="http://securityweekly.com/">Paul's Security Weekly</a><a href="#"></a></li>
+				<li><a href="http://www.darkreading.com/">Dark Reading</a><a href="#"></a></li>
+				<li><a href="http://taosecurity.blogspot.ro/">TAO of Security (*not* TAO)</a><a href="#"></a></li>
+				<li><a href="http://krebsonsecurity.com/">Krebs on Security</a><a href="#"></a></li>
+				<li><a href="https://www.schneier.com/">Bruce Schneier</a><a href="#"></a></li>
+				<li><a href="http://seclist.us/">SECLIST</a><a href="#"></a></li>
+				<li><a href="http://www.malwaremustdie.org/">MALWAREMUSTDIE</a><a href="#"></a></li>
+		  </ul>
+	    <ul>
+			
+	  <p>&nbsp;</p>
+	  
+	  <p>&nbsp;</p>	
+        
+          </ul>
+	      <p>&nbsp;</p>
+	      <div class="xbg"></div>
+		</div>
+		<div class="clear"></div>
+
+	  <div id="footer">
+	  <p>&nbsp;</p>
+	  <p>&nbsp;</p>
+	  <!--
+	  <p><img src="images/discovery.jpg" alt="" width="120" height="127" /></p>
+	  -->
+	  <p>&nbsp;</p>
+	  <p>&nbsp;</p>
+	  <p>&nbsp;</p>
+<!--	  <p><img src="images/MoT.jpg" alt="" width="201" height="148" /></p>
+	  <p>&nbsp;</p>
+	  <p><span class="style6"></span></p> -->
+	  <p>&nbsp;</p>
+	  
+	  <font face="Verdana, Arial, Helvetica, sans-serif">
+	  <p>&nbsp;</p>
+	  <p>&nbsp;</p>
+	  <p>&nbsp;</p>
+	  <font face="Verdana, Arial, Helvetica, sans-serif">
+	  <p class="style7 style8">Knowledge. Not Faith, not Supposition, but Knowledge.	  </p>
+	  </font>
+	  
+	  <p>&nbsp;</p>
+<!--	  <p><img src="images/hat.jpg" alt="" width="50" height="40" /></p> --> 
+	  <p>&nbsp;</p>
+	  <p>&nbsp;</p>
+	  <p><img src="images/h_logo.jpg" alt="" width="50" height="50" /></p>
+	  <p>&nbsp;</p>
+	  <p>&nbsp;</p>
+<!--	  <font face="Verdana, Arial, Helvetica, sans-serif">
+	  <p class="style7 style8">OBKR 
+        UOXOGHULBSOLIFBBWFLRVQQPRNGKSSO 
+        TWTQSJQSSEKZZWATJKLUDIAWINFBNYP 
+        VTTMZFPKWGDKZXTJCDIGKUHUAUEKCAR</p>
+	  </font>
+	  <p><img src="images/hal2.jpg" alt="" width="50" height="50" /></p>
+	  <p>&nbsp;</p> -->
+
+	<p></a></p>
+  </div>
+</div>
+</body>
+</html>
